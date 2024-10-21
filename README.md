@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me : Soy una desarrolladora web junior con experiencia en la creación de páginas web responsivas utilizando HTML, CSS, y JavaScript. También tengo habilidades en herramientas como Figma para diseño UI/UX, Git y GitHub para control de versiones, y CSS Flexbox para maquetación. Me apasiona aprender y mejorar continuamente, y actualmente estoy ampliando mis conocimientos en Python para fortalecer mis habilidades en el desarrollo backend. Me gusta enfrentar desafíos y colaborar en proyectos que mezclen creatividad y tecnología.
+Soy una desarrolladora web junior con experiencia en la creación de páginas web responsivas utilizando HTML, CSS, y JavaScript. También tengo habilidades en herramientas como Figma para diseño UI/UX, Git y GitHub para control de versiones, y CSS Flexbox para maquetación. Me apasiona aprender y mejorar continuamente, y actualmente estoy ampliando mis conocimientos en Python para fortalecer mis habilidades en el desarrollo backend. Me gusta enfrentar desafíos y colaborar en proyectos que mezclen creatividad y tecnología.
 
 
 ## 🌐 Socials:
